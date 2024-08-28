@@ -6,10 +6,10 @@
 
 > 读取图片和保存图片的各种方法（涉及torch.tensor还是numpy array；在CPU上还是GPU上）
 >
-> PSNR和SSIM的计算
+> PSNR和SSIM的计算(计算PSNR的张量是怎么从图片来)
 >
-> 常见的显卡（3090/4090）上的多卡训练的模版
+> 常见的显卡(3090/4090)上的多卡训练的模版
 >
-> test.py和demo.py的模版
+> test.py和demo.py的模版 (要考虑模型接受哪种输入)
 >
 > ...
